@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Hide scrollbar (your custom style is fine) */
+.flex-1::-webkit-scrollbar {
+  display: none;
+}
